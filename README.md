@@ -4,7 +4,4 @@
 
 123
 
-<video controls>
-  <source src="./llm_compressed.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+https://github.com/eureka-research/Eureka/assets/21993118/1abb960d-321a-4de9-b311-113b5fc53d4a
